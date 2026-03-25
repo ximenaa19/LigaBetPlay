@@ -1,0 +1,5 @@
+C:\LigaBetPlay\LigaBetPlay\obj\Debug\net10.0\LigaBetPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\LigaBetPlay\LigaBetPlay\obj\Debug\net10.0\LigaBetPlay.AssemblyInfoInputs.cache
+C:\LigaBetPlay\LigaBetPlay\obj\Debug\net10.0\LigaBetPlay.AssemblyInfo.cs
+C:\LigaBetPlay\LigaBetPlay\obj\Debug\net10.0\LigaBetPlay.csproj.CoreCompileInputs.cache
+C:\LigaBetPlay\LigaBetPlay\obj\Debug\net10.0\LigaBetPlay.sourcelink.json
