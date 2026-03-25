@@ -11,7 +11,7 @@ public class Equipos
     public int PP { get; set;}
     public int GF { get; set;}
     public int GC { get; set;}
-    public int TP => (PG * 3) + (PE * 1);
+    public int TP { get; set;}
 
 // Constructor
     public Equipos(string nombre)
@@ -23,6 +23,7 @@ public class Equipos
             PP = 0;
             GF = 0;
             GC = 0;
+            TP = 0;
         }
     
 // Metodo para registrar resultados
@@ -35,10 +36,12 @@ public class Equipos
         if (golesAFavor > golesEnContra)
         {
             PG++;
+            TP += 3;
         }
         else if (golesAFavor == golesEnContra)
         {
             PE++;
+            TP += 1;
         }
         else
         {
